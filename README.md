@@ -4,3 +4,4 @@ Decided to through this in my own repo for easer access to it.
 
 You literally just provide the image you would like to upload: `imgurbash.sh /path/to/image.png`
 
+The author: [Bart Nagel](http://bartnagel.co.uk/)
